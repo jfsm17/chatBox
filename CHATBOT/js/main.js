@@ -43,7 +43,7 @@ function responder(){
 		break;
 		case 2:
 		if (r == 1) {
-			resp = "No me junto con pendejos";
+			resp = "No me agradas";
 			};
 			if (r == 2) {
 			resp = "Si claro! amigas por siempre ";
